@@ -3,7 +3,7 @@
     "Author": "Acchoo",
     "Name": "QuickLoot",
     "Punchline": "Dungeon Loot Made Lazy.",
-    "Description": "Various commands to need, greed, or pass on all loot.",
+    "Description": "Various commands to need, greed, or pass on all loot",
     "InternalName": "quickloot",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/akbarssyam/QuickLoot",
