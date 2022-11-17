@@ -1,23 +1,25 @@
-{
-  "Author": "Acchoo",
-  "Name": "QuickLoot",
-  "InternalName": "QuickLoot",
-  "AssemblyVersion": "0.0.0.1",
-  "Description": "Various commands to need, greed, or pass on all loot.",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/akbarssyam/QuickLoot",
-  "Tags": [
-    "acchoo",
-    "quickloot"
-  ],
-  "DalamudApiLevel": 7,
-  "LoadPriority": 0,
-  "Punchline": "Dungeon Loot Made Lazy.",
-  "IsHide": "False",
-  "IsTestingExclusive": "False",
-  "DownloadCount": 0,
-  "LastUpdate": "1668681946",
-  "DownloadLinkInstall": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
-  "DownloadLinkTesting": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip"
-}
+[
+  {
+    "Author": "Acchoo",
+    "Name": "QuickLoot",
+    "InternalName": "QuickLoot",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Various commands to need, greed, or pass on all loot.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/akbarssyam/QuickLoot",
+    "Tags": [
+      "acchoo",
+      "quickloot"
+    ],
+    "DalamudApiLevel": 7,
+    "LoadPriority": 0,
+    "Punchline": "Dungeon Loot Made Lazy.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1668681946",
+    "DownloadLinkInstall": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
+    "DownloadLinkTesting": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip"
+  }
+]
