@@ -12,8 +12,8 @@
         "quickloot"
     ],
     "DalamudApiLevel": 7,
-    "DownloadLinkInstall": "https://github.com/akbarssyam/MyDalamudPlugins/raw/akbarssyam/plugins/QuickLoot/latest.zip",
-    "DownloadLinkTesting": "https://github.com/akbarssyam/MyDalamudPlugins/raw/akbarssyam/plugins/QuickLoot/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/akbarssyam/MyDalamudPlugins/raw/akbarssyam/plugins/QuickLoot/latest.zip"
+    "DownloadLinkInstall": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
+    "DownloadLinkTesting": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip"
   }
 ]
