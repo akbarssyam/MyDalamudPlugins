@@ -10,7 +10,11 @@
     "acchoo",
     "quickloot"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Dungeon Loot Made Lazy."
+  "Punchline": "Dungeon Loot Made Lazy.",
+  "AcceptsFeedback": true
 }
