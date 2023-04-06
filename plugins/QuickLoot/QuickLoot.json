@@ -1,20 +1,21 @@
 {
-  "Author": "Acchoo",
-  "Name": "QuickLoot",
-  "InternalName": "QuickLoot",
-  "AssemblyVersion": "1.0.0.1",
-  "Description": "Various commands to need, greed, or pass on all loot.",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/akbarssyam/QuickLoot",
-  "Tags": [
-    "acchoo",
-    "quickloot"
-  ],
-  "DalamudApiLevel": 8,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "Punchline": "Dungeon Loot Made Lazy.",
-  "AcceptsFeedback": true
+    "Author": "Acchoo",
+    "Name": "QuickLoot",
+    "InternalName": "QuickLoot",
+    "AssemblyVersion": "1.0.0.1",
+    "Description": "Various commands to need, greed, or pass on all loot.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/akbarssyam/QuickLoot",
+    "Tags": [
+        "acchoo",
+        "quickloot"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/akbarssyam/QuickLoot/master/Data/goat.png",
+    "Punchline": "Dungeon Loot Made Lazy.",
+    "AcceptsFeedback": true
 }
